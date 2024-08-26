@@ -1,10 +1,1 @@
-电气自动化/电工综合技能从入门到精通.pdf filter=lfs diff=lfs merge=lfs -text
-电气自动化/*.pdf filter=lfs diff=lfs merge=lfs -text
-计算机/ML/拐点.pdf filter=lfs diff=lfs merge=lfs -text
-社会科学/政治/政治学通识.pdf filter=lfs diff=lfs merge=lfs -text
-计算机/ML/深度学习之PyTorch实战计算机视觉(扫描).pdf filter=lfs diff=lfs merge=lfs -text
-[[:space:]]计算机/ML/计算机视觉.pdf filter=lfs diff=lfs merge=lfs -text
-工作管理/实用技能/关系攻略.epub filter=lfs diff=lfs merge=lfs -text
-计算机/ML/计算机视觉.pdf filter=lfs diff=lfs merge=lfs -text
-计算机/综合/深入理解计算机系统.pdf filter=lfs diff=lfs merge=lfs -text
-计算机/编程/EFFECTIVE_STL_中文版_50条有效使用STL的经验.pdf filter=lfs diff=lfs merge=lfs -text
+
